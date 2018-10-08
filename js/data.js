@@ -14,7 +14,7 @@ var JSONBingo = {"squares": [
         {"square": "My Shoe"},
         {"square": "BRB - Being rather British"},
         {"square": "WHAT HO FRIENDO!"},
-        {"square": "<DELETED LINK>"},
+        {"square": "&lt;DELETED LINK&gt;"},
         {"square": "will.exe has stopped"},
         {"square": "Does anybody need a backpack?"},
         {"square": "Pirate Queen - Little Bear"},
