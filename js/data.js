@@ -10,7 +10,7 @@ var clickSnd = new Audio("audio/click.mp3");
 var winSnd = new Audio("audio/win.mp3");
 
 var JSONBingo = {"squares": [
-        {"square": "Are we the badies"},
+        {"square": "Are we the badies?"},
         {"square": "My Shoe"},
         {"square": "BRB - Being rather British"},
         {"square": "WHAT HO FRIENDO!"},
@@ -38,7 +38,7 @@ var JSONBingo = {"squares": [
         {"square": "*Will makes a weird face*"},    	
         {"square": "Jumping back into chat"},    	
         {"square": "*Will plays Chap Hop*"},    	
-        {"square": "CYBERsomething"},    	
+        {"square": "CYBER something"},    	
         {"square": "SHARKS!"},    	
         {"square": "*Will cries*"}  	
     ]
